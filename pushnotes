@@ -1,0 +1,9 @@
+git config --global user.email "franc.brevis@gmail.com"
+git init
+git add FILE/FOLDER
+git commit -m "MESSAGE"
+git remote add origin https://github.com/francobrevis/HTB.git
+git remote -v
+git push -f origin master OR main
+
+
